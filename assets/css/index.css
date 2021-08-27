@@ -1,0 +1,26 @@
+.site-title {
+    text-align: center;
+}
+
+.description p {
+    text-align: center;
+}
+
+.main-input {
+    display: flex;
+}
+
+#urlInput {
+    flex: 1;
+    padding: 0.5rem 0.5rem;
+}
+
+.operation-area {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+#startBtn {
+    font-size: large;
+}
