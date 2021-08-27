@@ -1,0 +1,15 @@
+{
+  "name": "vercel-web-screenshot",
+  "version": "1.0.0",
+  "description": "Web-screenshot service for Vercel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "susc",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^10.1.0",
+    "puppeteer": "^10.2.0"
+  }
+}
